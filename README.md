@@ -5,7 +5,7 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elizaveta.elenovna@yandex.ru)](mailto:elizaveta.elenovna@yandex.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=0088cc&link=https://t.me/lizananeva)](https://t.me/lizananeva)
 
-Меня зовут Елизавета, я frontend-разработчик из Одинцово (Московская область). Вебом занимаюсь с 2023 года. Мне нравится искать решения новых для меня задач и видеть результат своей работы. Люблю изучать различные технологии и применять их на практике.
+Меня зовут Елизавета, я frontend-разработчик из Одинцово (Московская область). Вебом занимаюсь с 2023 года. Мне нравится искать решения новых для меня задач и видеть результат своей работы. Люблю изучать различные технологии и применять их на практике. Участвую в хакатонах от Яндекс Мастерской.
 
 В настоящее время нахожусь в поиске работы. [Вот мое резюме на hh](https://hh.ru/resume/1d84afc6ff0d0ceb6a0039ed1f435948514a78).
 
